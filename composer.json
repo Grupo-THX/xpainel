@@ -1,5 +1,5 @@
 {
-  "name": "vendor_name/xpainel",
+  "name": "grupothx/xpainel",
   "description": "description",
   "minimum-stability": "stable",
   "license": "proprietary",
@@ -10,5 +10,10 @@
     }
   ],
   "require": {
-  }
+  },
+  "autoload": {
+    "psr-4": {
+        "grupothx\\xpainel\\": "src/"
+    }
+}
 }
