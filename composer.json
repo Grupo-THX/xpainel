@@ -5,15 +5,15 @@
   "license": "proprietary",
   "authors": [
     {
-      "name": "Jardel",
-      "email": "email@example.com"
+      "name": "X-Painel",
+      "email": "suporte@xpainel.com"
     }
   ],
   "require": {
   },
   "autoload": {
     "psr-4": {
-        "grupothx\\xpainel\\": "src/"
+        "Xpainel\\": "src/Xpainel"
     }
-}
+  }
 }
