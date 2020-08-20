@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/xpainel",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Jardel",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
