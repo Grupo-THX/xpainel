@@ -1,7 +1,7 @@
 <?php
-namespace ourcodeworld\HelloComposer;
+namespace grupothx\Xpainel;
 
-class Hello
+class X
 {
     public function say($toSay = "Nothing given")
     {

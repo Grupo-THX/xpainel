@@ -1,11 +1,8 @@
 <?php
-
 require_once __DIR__ . '/../vendor/autoload.php';
 
-use ourcodeworld\HelloComposer\Hello;
+use grupothx\Xpainel\X;
 
-$instance = new Hello();
+$instance = new X();
 
 echo $instance->say("Hello World");
-
-echo 'ok';
