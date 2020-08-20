@@ -1,10 +1,10 @@
 <?php
-namespace grupothx\Xpainel;
+namespace Xpainel;
 
 class X
 {
-    public function say($toSay = "Nothing given")
+    public function run()
     {
-        return $toSay;
+        return 'run :)';
     }
 }
