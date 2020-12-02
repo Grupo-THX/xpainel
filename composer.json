@@ -28,6 +28,5 @@
     "psr-4": {
        "GrupoThx\\Xpainel\\": "src/"
     }
-  },
-  "license": "LGPL-2.1-only"
+  }
 }
