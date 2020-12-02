@@ -1,6 +1,16 @@
 {
   "name": "grupothx/xpainel",
-  "description": "X-Painel Framework",
+  "description": "X-Painel Framework - Um framework simples e leve para desenvolvimento rápido.",
+  "authors": [
+        {
+            "name": "Jardel Jacomini",
+            "email": "deljdl@gmail.com"
+        },
+        {
+            "name": "Equipe Grupo THX",
+            "email": "equipe@grupothx.com.br"
+        }
+    ],
   "type": "package",
   "minimum-stability": "stable",
   "license": "mit",
@@ -16,7 +26,8 @@
   },
   "autoload": {
     "psr-4": {
-        "Xpainel\\": "src/Xpainel"
+       "GrupoThx\\Xpainel\\": "src/"
     }
-  }
+  },
+  "license": "LGPL-2.1-only"
 }
