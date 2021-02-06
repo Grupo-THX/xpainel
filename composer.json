@@ -28,5 +28,7 @@
     "psr-4": {
        "Xpainel\\": "src/"
     }
-  }
+  },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
