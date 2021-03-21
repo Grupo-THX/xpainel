@@ -28,7 +28,7 @@
     "psr-4": {
        "GrupoThx\\Xpainel\\": "src/"
     }
-  }
+  },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
