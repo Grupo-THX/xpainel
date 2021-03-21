@@ -24,11 +24,9 @@
   "require": {
     "php": ">=7.2.0"
   },
-  "autoload": {
-    "psr-4": {
-       "Xpainel\\": "src/"
+ "autoload": {
+        "classmap": ["src"]
     }
-  },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
