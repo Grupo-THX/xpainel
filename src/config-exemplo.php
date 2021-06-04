@@ -1,0 +1,1 @@
+<? echo 'Silence is golden';
